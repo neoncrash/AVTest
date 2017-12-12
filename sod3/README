@@ -1,0 +1,3 @@
+sod3.usr.absmin was based on some adhoc crap involving taking the dsop minimum
+of face values of |R_s|. It also contains a version of evmsmooth that omits
+face points. It contains most of my bad ideas
